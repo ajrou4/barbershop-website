@@ -5,12 +5,12 @@ A modern, responsive website for a barbershop, designed to showcase services, pr
 🔗 Live Demo: https://ajrou4.github.io/barbershop-website/
 <h2>Features</h2>
 
-✅ Fully Responsive – Works on mobile, tablet, and desktop.
-✅ Service & Pricing Display – Highlights haircuts, shaves, and grooming services.
-✅ Booking Functionality – Allows users to book appointments (may require backend integration).
-✅ Modern UI/UX – Clean design with smooth animations.
-✅ Gallery Section – Showcases the barbershop's work.
-Technologies Used
+<h5>✅ Fully Responsive – Works on mobile, tablet, and desktop.</h5>
+<h5>✅ Service & Pricing Display – Highlights haircuts, shaves, and grooming services.</h5>
+<h5>✅ Booking Functionality – Allows users to book appointments (may require backend integration).</h5>
+<h5>✅ Modern UI/UX – Clean design with smooth animations.</h5>
+<h5>✅ Gallery Section – Showcases the barbershop's work.</h5>
+<h4>Technologies Used</h4>
 
     HTML5
 
@@ -18,9 +18,8 @@ Technologies Used
 
     JavaScript (for interactivity)
 
-    Possibly a frontend framework (if used, e.g., Bootstrap, Tailwind, or React).
 
-How to Run Locally
+<h4>How to Run Locally</h4>
 
     Clone the repository:
     Copy
